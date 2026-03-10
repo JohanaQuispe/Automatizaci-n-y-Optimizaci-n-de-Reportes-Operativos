@@ -1,0 +1,9 @@
+{
+  "tiempo_promedio_atencion_min": 17.81,
+  "nivel_satisfaccion_promedio": 4.01,
+  "incidencia_mas_frecuente": "Soporte técnico",
+  "total_tickets": 375,
+  "reduccion_tiempo_manual_pct": 88.89,
+  "antes_min": 180,
+  "despues_min": 20
+}
